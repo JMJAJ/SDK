@@ -1,3 +1,3 @@
 > [!Note]
-> I used Dumper-7 and since Im lazy to update it just do it urself
- - [Dumper-7](https://github.com/Encryqed/Dumper-7)
+> I used [Dumper-7](https://github.com/Encryqed/Dumper-7) and since Im lazy to update it just do it urself
+ - 
